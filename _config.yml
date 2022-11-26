@@ -3,3 +3,10 @@ description: http://www.wawow.xyz
 theme: just-the-docs
 
 url: https://goodlovings.github.io
+
+aux_links:
+  "哇喔web主页":
+    - "http://www.wawow.xyz"
+
+aux_links_new_tab: true
+f
