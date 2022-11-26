@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 前言：如何进行源码阅读
 nav_order: 1
 permalink: /
 ---
