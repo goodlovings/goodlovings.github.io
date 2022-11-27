@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 前言：如何进行源码阅读
+title: 前言
 nav_order: 1
 permalink: /
 ---
 
-# 前言
+# 如何进行源码阅读
 
 # package.json
 
