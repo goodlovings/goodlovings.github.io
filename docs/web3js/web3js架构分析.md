@@ -11,7 +11,7 @@ nav_order: 1
 
 web3.js 库是一系列模块的集合，服务于以太坊生态系统的各个功能。
 
-![](http://img.wawow.xyz/imgs/20221127123301.png)
+![](../../assets/images/framework.jpg)
 
 Dapp 通过 web3.js 可以向区块链网络中某个以太坊节点发出请求，与区块链网络进行交互。
 
